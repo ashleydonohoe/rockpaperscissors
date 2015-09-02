@@ -1,5 +1,6 @@
 #Pseudocode
 =begin 
+
 1. Print a welcome message <---
 2. Print a promp for p/r/s <---
 3. Get user input <---
@@ -9,6 +10,7 @@
 7. Tell result (paper wraps rock, etc)
 8. Tell who wins/loses
 9. Ask to play again
+
 =end
 
 def play_again()
